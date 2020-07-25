@@ -1,6 +1,8 @@
 # otsu-cost
 Cost database frontend!!!
 
+## Website: https://cost.otsu.fun
+
 ## Backend here: https://github.com/Pure-Peace/otsu-cost-backend
 
 Built: Vue-CLI3
